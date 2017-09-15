@@ -8,7 +8,7 @@ public class ControleExec {
 
     /*
 
-        Objectif : Implémentez la fonction fibbonaci_depart_0 , qui permet de retourner l'élément n dans la suite de fibbonaci (premier élément de la suite == 0)
+        Objectif : Implémentez la fonction fibbonaci_depart_0 , qui permet de retourner la suite de fibbonaci jusqu'a l'élément fourni en argument (premier élément de la suite == 0)
 
      */
     public static int[] fibbonaci_depart_0(int pos)
