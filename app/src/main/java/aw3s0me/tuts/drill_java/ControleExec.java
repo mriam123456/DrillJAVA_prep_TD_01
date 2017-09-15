@@ -6,6 +6,11 @@ package aw3s0me.tuts.drill_java;
 
 public class ControleExec {
 
+    /*
+
+        Objectif : Implémentez la fonction fibbonaci_depart_0 , qui permet de retourner l'élément n dans la suite de fibbonaci (premier élément de la suite == 0)
+
+     */
     public static int[] fibbonaci_depart_0(int pos)
     {
         int[] fibs = new int[pos+1];
@@ -25,6 +30,10 @@ public class ControleExec {
 
         return fibs;
     }
+
+    /*
+        Objectif : Implémenter la fonction fillWithOddOnly qui rempli un tableau de longueur pos+1 avec la suite des chiffres impairs (commencant par 1)
+     */
 
     public static int[] fillWithOddOnly(int pos)
     {
